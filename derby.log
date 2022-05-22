@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 17 11:26:39 UZT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0180-d0b2-7956-000017a48580 
+on database directory C:\Users\User\Documents\NetBeansProjects\yutong\data\database with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=C:\Users\User\Documents\NetBeansProjects\yutong
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
